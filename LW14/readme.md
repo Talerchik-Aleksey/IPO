@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/badge/author-Talerchik%20Aleksey-red"></img>
 <img src="https://img.shields.io/badge/updated-02.01.2021-blue"></img>
 
 There is a Vegetable with the following characteristics:
