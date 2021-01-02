@@ -48,13 +48,11 @@ Tests:
 6. Harvest the crop ✅
 7. Determine the variety of the harvested crop ✅
 
-//--------------------------------------------------------------- THE CODE ---------------------------------------------------------------\\
-
+<H2 style="text-alight:center">THE CODE</h2>
 class Vegetable:
 	__init__  save _index, _state
 	grow grow method, which will move the vegetable to the next stage of ripening
 	is_ripe  Create an is_ripe () method that will check if the vegetable is ripe (has reached the last stage of ripening)
 	_change_state  change status
 	_print_state print inforamation about Vegetable
-
-//--------------------------------------------------------------- IN PROGRESS... ---------------------------------------------------------------\\ #02.01.2021
+<H2 style="text-alight:center">IN PROGRESS</h2>
