@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/updated-02.01.2021-blue"></img>
+
 There is a Vegetable with the following characteristics:
 1. Index
 2. Stage of maturity (stages: None, Flowering, Green, Red)
@@ -44,7 +46,8 @@ Tests:
 6. Harvest the crop ✅
 7. Determine the variety of the harvested crop ✅
 
-//------------------- THE CODE -------------------//
+//--------------------------------------------------------------- THE CODE ---------------------------------------------------------------\\
+
 class Vegetable:
 	__init__  save _index, _state
 	grow grow method, which will move the vegetable to the next stage of ripening
@@ -52,4 +55,4 @@ class Vegetable:
 	_change_state  change status
 	_print_state print inforamation about Vegetable
 
-//------------------- IN PROGRESS... -------------------// #02.01.2021
+//--------------------------------------------------------------- IN PROGRESS... ---------------------------------------------------------------\\ #02.01.2021
