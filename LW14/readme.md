@@ -44,7 +44,8 @@ Tests:
 6. Harvest the crop ✅
 7. Determine the variety of the harvested crop ✅
 
-//---------------------------------------------------------------- THE CODE ---------------------------------------------------------------//
+//--------------------------------------------------------------- THE CODE ---------------------------------------------------------------//
+
 class Vegetable:
 	__init__  save _index, _state
 	grow grow method, which will move the vegetable to the next stage of ripening
