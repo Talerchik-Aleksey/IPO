@@ -50,9 +50,9 @@ Tests:
 
 <H2 style="text-alight:center">THE CODE</h2>
 class Vegetable:
-	__init__  save _index, _state
-	grow grow method, which will move the vegetable to the next stage of ripening
-	is_ripe  Create an is_ripe () method that will check if the vegetable is ripe (has reached the last stage of ripening)
-	_change_state  change status
-	_print_state print inforamation about Vegetable
-<H2 style="text-alight:center">IN PROGRESS</h2>
+  • __init__  save _index, _stat;<br>
+  • grow grow method, which will move the vegetable to the next stage of ripening;<br>
+  • is_ripe  Create an is_ripe () method that will check if the vegetable is ripe (has reached the last stage of ripening);<br>
+  • _change_state  change status;<br>
+  • _print_state print inforamation about Vegetable;<br>
+IN PROGRESS
