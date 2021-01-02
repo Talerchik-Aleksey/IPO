@@ -1,4 +1,5 @@
-<img alt="Eclipse Marketplace" src="https://img.shields.io/eclipse-marketplace/last-update/e.g.%20notepad4e">
+<img src="https://img.shields.io/badge/updated-02.01.2021-blue"></img>
+
 There is a Vegetable with the following characteristics:
 1. Index
 2. Stage of maturity (stages: None, Flowering, Green, Red)
