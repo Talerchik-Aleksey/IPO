@@ -1,0 +1,11 @@
+a = random.int(1,10)
+b = random.int(1,10)
+
+while a > b:
+        print (a)
+        a = a - 1
+while a < b:
+    print(b)
+    b = b - 1
+else:
+    print('0')
